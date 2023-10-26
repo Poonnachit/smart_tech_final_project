@@ -4,16 +4,13 @@ Welcome to the Smart Tech Final Project repository!. This innovative project com
 
 ## Key Features
 
-### 1. Real-time Object Recognition
-The project captures video frames from a camera in real-time, isolates specific regions of interest, and processes them for object recognition.
-
-### 2. Text Recognition with OCR
+### 1. Text Recognition with OCR
 Utilizing Tesseract OCR, the application extracts text from the captured frames. It identifies specific keywords such as "large" and "small."
 
-### 3. Robotic Automation
+### 2. Robotic Automation
 Based on the detected keywords, the integrated Dobot robotic arm performs automated tasks. When "large" is recognized, the robotic arm moves to acquire a box, distinguishes between "a" and "b" positions, and returns to the home position. Similarly, for "small" objects, the arm follows a different set of instructions.
 
-### 4. User Interaction
+### 3. User Interaction
 The application provides user interaction through the terminal, displaying debug information using the IceCream library. Users can monitor the detection process and see the application's decisions in real-time.
 
 ## Use Cases
