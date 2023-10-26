@@ -1,6 +1,6 @@
 # Smart Tech Final Project
 
-Welcome to the Smart Tech Final Project repository!. This innovative project combines computer vision, optical character recognition (OCR), and robotic automation to detect and classify objects based on text (large, small) using a Dobot robotic arm. The application captures real-time video frames, processes them for object recognition, and extracts text using Tesseract OCR. Depending on the recognized keywords, the integrated robotic arm performs automated tasks, making it ideal for automated sorting processes in manufacturing, interactive robotics demonstrations, and educational purposes. Powered by Python and industry-standard libraries, this project showcases the seamless integration of technology for practical applications.
+Welcome to the Smart Tech Final Project repository!. This innovative project combines computer vision, optical character recognition (OCR), and robotic automation to detect and classify objects based on text (large, small) using a Dobot robotic arm. The application captures real-time video frames, extracts text using Tesseract OCR. Depending on the recognized keywords, the integrated robotic arm performs automated tasks, making it ideal for automated sorting processes in manufacturing, interactive robotics demonstrations, and educational purposes. Powered by Python and industry-standard libraries, this project showcases the seamless integration of technology for practical applications.
 
 ## Key Features
 
